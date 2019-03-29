@@ -1,0 +1,20 @@
+ws:
+  ip: 10.36.142.75
+  port: 9001
+zk:
+  host: 192.168.111.128:2181
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10000/eureka
+spring:
+  application:
+    name: web-socket
+  rabbitmq:
+    host: 192.168.111.128
+    username: admin
+    password: admin
+    virtual-host: /admin
+    port: 5672
+server:
+  port: 9101

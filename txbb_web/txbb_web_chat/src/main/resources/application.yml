@@ -1,0 +1,19 @@
+server:
+  port: 8003
+spring:
+  application:
+    name: web-chat
+  rabbitmq:
+    host: 192.168.111.128
+    username: admin
+    password: admin
+    virtual-host: /admin
+    port: 5672
+  redis:
+    host: 192.168.111.128
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10000/eureka
+zk:
+  host: 192.168.111.128:2181

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/txbb.iml" filepath="$PROJECT_DIR$/txbb.iml" group="txbb and modules" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_entity/txbb_entity.iml" filepath="$PROJECT_DIR$/txbb_entity/txbb_entity.iml" group="txbb and modules" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_eureka/txbb_eureka.iml" filepath="$PROJECT_DIR$/txbb_eureka/txbb_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_web/txbb_web.iml" filepath="$PROJECT_DIR$/txbb_web/txbb_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_web/txbb_web_api//txbb_web_api.iml" filepath="$PROJECT_DIR$/txbb_web/txbb_web_api//txbb_web_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_web/txbb_web_chat/txbb_web_chat.iml" filepath="$PROJECT_DIR$/txbb_web/txbb_web_chat/txbb_web_chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_web/txbb_web_friends/txbb_web_friends.iml" filepath="$PROJECT_DIR$/txbb_web/txbb_web_friends/txbb_web_friends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_web/txbb_web_resource/txbb_web_resource.iml" filepath="$PROJECT_DIR$/txbb_web/txbb_web_resource/txbb_web_resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_web/txbb_web_user/txbb_web_user.iml" filepath="$PROJECT_DIR$/txbb_web/txbb_web_user/txbb_web_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txbb_websocket/txbb_websocket.iml" filepath="$PROJECT_DIR$/txbb_websocket/txbb_websocket.iml" />
+    </modules>
+  </component>
+</project>

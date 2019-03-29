@@ -1,0 +1,21 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: resource-server
+  servlet:
+    multipart:
+      max-file-size: 10MB
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10000/eureka
+fdfs:
+  serverip: 192.168.111.128
+  thumb-image:
+    height: 80
+    width: 80
+  tracker-list:
+    - 192.168.111.128:22122
+  pool:
+    jmx-enabled: false

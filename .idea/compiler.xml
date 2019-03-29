@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="txbb_entity" />
+        <module name="txbb_eureka" />
+        <module name="txbb_web" />
+        <module name="txbb_web_api" />
+        <module name="txbb_web_chat" />
+        <module name="txbb_web_friends" />
+        <module name="txbb_web_resource" />
+        <module name="txbb_web_user" />
+        <module name="txbb_websocket" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="txbb" target="1.8" />
+      <module name="txbb_entity" target="1.8" />
+      <module name="txbb_eureka" target="1.8" />
+      <module name="txbb_web" target="1.8" />
+      <module name="txbb_web_api" target="1.8" />
+      <module name="txbb_web_chat" target="1.8" />
+      <module name="txbb_web_friends" target="1.8" />
+      <module name="txbb_web_resource" target="1.8" />
+      <module name="txbb_web_user" target="1.8" />
+      <module name="txbb_websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_web/txbb_web_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_web/txbb_web_chat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_web/txbb_web_friends" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_web/txbb_web_resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_web/txbb_web_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/txbb_websocket" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
